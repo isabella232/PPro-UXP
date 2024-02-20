@@ -29,8 +29,8 @@ module.exports = {
         path: '/'
       },
       {
-        title: 'Guides',
-        path: '/guides/'
+        title: 'Premiere Pro API',
+        path: '/ppro_reference/'
       },
       {
         title: 'API Reference',
@@ -54,26 +54,9 @@ module.exports = {
     ],
     subPages: [
       {
-        title: 'Get Started',
-        path: '/guides/',
-        pages: [
-          {
-            title: 'Dummy an OAuth Client',
-            path: '/guides/dummy_oauth_client/'
-          },
-          {
-            title: 'Dummy OAuth using POSTMAN',
-            path: '/guides/dummy_using_postman/'
-          }
-        ]
-      },
-      {
-        title: 'Cat Metrics API',
-        path: '/guides/dummy_metrics_api/'
-      },
-      {
-        title: 'Migrating',
-        path: '/guides/migrating/'
+        title: 'Premiere Pro API',
+        path: '/ppro_reference/',
+        pages: require("./reference-ppro.js"),
       },
       {
         title: 'Overview',
