@@ -43,7 +43,7 @@ Set whether to apply transition to the start or end of trackitem
 | Name | Type |
 | :------ | :------ |
 | ApplyToStart | *boolean* |
-    
+
 ___
 
 ### setForceSingleSided
@@ -59,7 +59,7 @@ Set whether transition should be applied one/both sides
 | Name | Type |
 | :------ | :------ |
 | ForceSingleSided | *boolean* |
-    
+
 ___
 
 ### setTransitionAlignment
@@ -75,7 +75,7 @@ Sets the transitionAlignment of transition
 | Name | Type |
 | :------ | :------ |
 | undefined | *number* |
-    
+
 ___
 
 ### setDuration
@@ -91,9 +91,5 @@ Sets the duration of transition
 | Name | Type |
 | :------ | :------ |
 | TickTime | *object* |
-    
+
 ___
-
-
-
-
