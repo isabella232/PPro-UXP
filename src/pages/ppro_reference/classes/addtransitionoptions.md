@@ -28,10 +28,10 @@ keywords:
 | transitionAlignment | *number* | R | 23.0 | Gets the transitionAlignment of transition |
 | duration | *TickTime* | R | 23.0 | Gets the duration of transition |
 
-
 ## Methods
 
 ### setApplyToStart
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -39,6 +39,7 @@ keywords:
 Set whether to apply transition to the start or end of trackitem
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | ApplyToStart | *boolean* |
@@ -46,6 +47,7 @@ Set whether to apply transition to the start or end of trackitem
 ___
 
 ### setForceSingleSided
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -53,6 +55,7 @@ ___
 Set whether transition should be applied one/both sides
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | ForceSingleSided | *boolean* |
@@ -60,6 +63,7 @@ Set whether transition should be applied one/both sides
 ___
 
 ### setTransitionAlignment
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -67,6 +71,7 @@ ___
 Sets the transitionAlignment of transition
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | undefined | *number* |
@@ -74,6 +79,7 @@ Sets the transitionAlignment of transition
 ___
 
 ### setDuration
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -81,6 +87,7 @@ ___
 Sets the duration of transition
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TickTime | *object* |
