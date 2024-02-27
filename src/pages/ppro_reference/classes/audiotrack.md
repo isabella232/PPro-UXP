@@ -34,6 +34,7 @@ keywords:
 *boolean*
 
 Propagates the given event on this object.
+
 #### Parameters
 
 | Name | Type |
@@ -69,6 +70,7 @@ ___
 *Array*
 
 This returns the track items of the specified media type from the given track
+
 #### Parameters
 
 | Name | Type |

@@ -65,6 +65,7 @@ ___
 *object*
 
 Get video track from track index
+
 #### Parameters
 
 | Name | Type |
@@ -80,6 +81,7 @@ ___
 *object*
 
 Get audio track from track index
+
 #### Parameters
 
 | Name | Type |
@@ -95,6 +97,7 @@ ___
 *object*
 
 Get caption track from track index
+
 #### Parameters
 
 | Name | Type |

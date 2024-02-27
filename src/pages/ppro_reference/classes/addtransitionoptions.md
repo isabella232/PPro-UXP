@@ -37,6 +37,7 @@ keywords:
 *object*
 
 Set whether to apply transition to the start or end of trackitem
+
 #### Parameters
 
 | Name | Type |
@@ -52,6 +53,7 @@ ___
 *object*
 
 Set whether transition should be applied one/both sides
+
 #### Parameters
 
 | Name | Type |
@@ -67,6 +69,7 @@ ___
 *object*
 
 Sets the transitionAlignment of transition
+
 #### Parameters
 
 | Name | Type |
@@ -82,6 +85,7 @@ ___
 *object*
 
 Sets the duration of transition
+
 #### Parameters
 
 | Name | Type |

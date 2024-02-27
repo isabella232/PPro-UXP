@@ -34,6 +34,7 @@ keywords:
 *boolean*
 
 Add an action to the compound action
+
 #### Parameters
 
 | Name | Type |

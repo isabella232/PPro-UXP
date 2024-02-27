@@ -14,6 +14,7 @@ The following line allows you access to the PremierePro DOM via UXP.
 ```javascript
 const app = require('premierepro');
 ```
+
 From here, you can open documents, modify them, run menu items, and more.
 
 ### Minimum Version

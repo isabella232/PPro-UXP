@@ -45,6 +45,7 @@ ___
 *boolean*
 
 Set the active sequence of the project
+
 #### Parameters
 
 | Name | Type |
@@ -60,6 +61,7 @@ ___
 *Sequence*
 
 Create a new sequence with the default preset path - Parameter presetPath is deprecated, instead use createSequenceWithPresetPath()
+
 #### Parameters
 
 | Name | Type |
@@ -76,6 +78,7 @@ ___
 *Sequence*
 
 Create a new sequence with a given name and medias
+
 #### Parameters
 
 | Name | Type |
@@ -93,6 +96,7 @@ ___
 *object*
 
 Create a new project
+
 #### Parameters
 
 | Name | Type |
@@ -108,6 +112,7 @@ ___
 *boolean*
 
 Import files in root/target bin of the project
+
 #### Parameters
 
 | Name | Type |
@@ -126,6 +131,7 @@ ___
 *object*
 
 Open a project
+
 #### Parameters
 
 | Name | Type |
@@ -142,6 +148,7 @@ ___
 *boolean*
 
 Close a project
+
 #### Parameters
 
 | Name | Type |
@@ -157,6 +164,7 @@ ___
 *object*
 
 Get sequence by id from the project
+
 #### Parameters
 
 | Name | Type |
@@ -182,6 +190,7 @@ ___
 *object*
 
 Get project referenced by given UID
+
 #### Parameters
 
 | Name | Type |
@@ -217,6 +226,7 @@ ___
 *boolean*
 
 Execute undoable transaction by passing compount action
+
 #### Parameters
 
 | Name | Type |

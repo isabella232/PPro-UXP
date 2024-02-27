@@ -74,6 +74,7 @@ ___
 *TickTime*
 
 Get the in point of the Project item
+
 #### Parameters
 
 | Name | Type |
@@ -89,6 +90,7 @@ ___
 *TickTime*
 
 Get the out point of the Project item
+
 #### Parameters
 
 | Name | Type |
@@ -114,6 +116,7 @@ ___
 *boolean*
 
 Set the in or out point of the Project item
+
 #### Parameters
 
 | Name | Type |

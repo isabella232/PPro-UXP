@@ -28,6 +28,7 @@ keywords:
 *Guid*
 
 Create a guid from a string
+
 #### Parameters
 
 | Name | Type |

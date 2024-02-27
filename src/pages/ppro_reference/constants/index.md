@@ -22,7 +22,6 @@ To use any constant, import the `constants` object from the premiere pro module 
 
 ## Enumerations
 
-
 ### MediaType
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -35,7 +34,6 @@ To use any constant, import the `constants` object from the premiere pro module 
 | AUDIO | - |
 
 ___
-
 ### ContentType
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -47,7 +45,6 @@ ___
 | MEDIA | - |
 
 ___
-
 ### TransitionPosition
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -58,7 +55,6 @@ ___
 | END | - |
 
 ___
-
 ### TrackItemType
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -72,7 +68,6 @@ ___
 | FEEDBACK | - |
 
 ___
-
 ### ProjectEvent
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -85,4 +80,3 @@ ___
 | ACTIVATED | - |
 
 ___
-

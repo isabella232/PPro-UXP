@@ -28,6 +28,7 @@ keywords:
 *VideoFilterComponent*
 
 Creates a new video filter component based on the input matchName
+
 #### Parameters
 
 | Name | Type |
