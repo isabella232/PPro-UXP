@@ -25,10 +25,10 @@ keywords:
 | :------ | :------ | :------ | :------ | :------ |
 | empty | *boolean* | R | 23.0 | Is the compound action empty? |
 
-
 ## Methods
 
 ### addAction
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *boolean*
@@ -36,10 +36,11 @@ keywords:
 Add an action to the compound action
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | Action | *object* |
-    
+
 ___
 
 

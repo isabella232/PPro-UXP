@@ -28,10 +28,10 @@ keywords:
 | showWarningDialog | *boolean* | R | 23.0 | Get whether the warning file dialog is shown on project open/close |
 | addToMRUList | *boolean* | R | 23.0 | Get whether to add project changes to MRU list |
 
-
 ## Methods
 
 ### setShowConvertProjectDialog
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -39,13 +39,15 @@ keywords:
 Set whether to show the convert project dialog on project open/close
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | inShowConvertProjectDialog | *boolean* |
-    
+
 ___
 
 ### setShowLocateFileDialog
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -53,13 +55,15 @@ ___
 Set whether to show the locate file dialog on project open/close
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | inShowLocateFileDialog | *boolean* |
-    
+
 ___
 
 ### setShowWarningDialog
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -67,13 +71,15 @@ ___
 Set whether to show the warning file dialog on project open/close
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | inShowConvertProjectDialog | *boolean* |
-    
+
 ___
 
 ### setAddToMRUList
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -81,10 +87,11 @@ ___
 Set whether to add to MRU list after project changes
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | inAddToMRUList | *boolean* |
-    
+
 ___
 
 

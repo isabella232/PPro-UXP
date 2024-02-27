@@ -26,10 +26,10 @@ keywords:
 | x | *number* | W | 23.0 | Get/Set the x value of a point |
 | y | *number* | W | 23.0 | Get/Set the y value of a point |
 
-
 ## Methods
 
 ### distanceTo
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *number*
@@ -37,10 +37,11 @@ keywords:
 Get the distance from one point to another point
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | inPoint | *object* |
-    
+
 ___
 
 

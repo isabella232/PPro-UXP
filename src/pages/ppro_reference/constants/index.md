@@ -23,7 +23,8 @@ To use any constant, import the `constants` object from the premiere pro module 
 ## Enumerations
 
 
-### MediaType 
+### MediaType
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 | Name | Description |
@@ -35,7 +36,8 @@ To use any constant, import the `constants` object from the premiere pro module 
 
 ___
 
-### ContentType 
+### ContentType
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 | Name | Description |
@@ -46,7 +48,8 @@ ___
 
 ___
 
-### TransitionPosition 
+### TransitionPosition
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 | Name | Description |
@@ -56,7 +59,8 @@ ___
 
 ___
 
-### TrackItemType 
+### TrackItemType
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 | Name | Description |
@@ -66,6 +70,19 @@ ___
 | TRANSITION | - |
 | PREVIEW | - |
 | FEEDBACK | - |
+
+___
+
+### ProjectEvent
+
+<span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
+
+| Name | Description |
+| :------ | :------ |
+| OPENED | - |
+| CLOSED | - |
+| DIRTY | - |
+| ACTIVATED | - |
 
 ___
 

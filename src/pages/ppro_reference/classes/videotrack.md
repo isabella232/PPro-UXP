@@ -25,10 +25,10 @@ keywords:
 | :------ | :------ | :------ | :------ | :------ |
 | name | *string* | R | 23.0 | Get the name of the track |
 
-
 ## Methods
 
 ### getTrackItems
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *Array*
@@ -36,14 +36,16 @@ keywords:
 This returns the track items of the specified media type from the given track
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TrackItemType | *number* |
 | includeEmptyTrackItems | *boolean* |
-    
+
 ___
 
 ### subscribeToEvent
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *boolean*
@@ -51,13 +53,15 @@ ___
 Propagates the given event on this object.
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | string | *string* |
-    
+
 ___
 
 ### getMediaType
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -68,6 +72,7 @@ UUID representing the underlying media type of this track
 ___
 
 ### getIndex
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *number*

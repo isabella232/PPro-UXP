@@ -25,10 +25,10 @@ keywords:
 | :------ | :------ | :------ | :------ | :------ |
 | name | *string* | R | 23.0 | Get name of project item object |
 
-
 ## Methods
 
 ### getParent
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -39,6 +39,7 @@ Get the root item of the project which contains all items of the project on the 
 ___
 
 ### getProject
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*

@@ -24,7 +24,7 @@ Root of the API, accessed at `require("premierepro")`
 
 ### constants
 
-• **constants**: [*Constants*](/ps_reference/modules/constants/)
+• **constants**: [*Constants*](/ppro_reference/constants/)
 
 The different constants and enumerations that DOM APIs expect as certain parameters.
 
@@ -32,7 +32,7 @@ ___
 
 ### core
 
-• **core**: *typeof* [*premiereproCore*](/ps_reference/media/premiereprocore/)
+• **core**: *typeof* [*premiereproCore*](/ppro_reference/)
 
 The set of lower level APIs for directly interfacing with Premiere Pro UI and user.
 

@@ -25,10 +25,10 @@ keywords:
 | :------ | :------ | :------ | :------ | :------ |
 | name | *string* | R | 23.0 | Get the name of the track |
 
-
 ## Methods
 
 ### getTrackItems
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *Array*
@@ -36,11 +36,12 @@ keywords:
 This returns the track items of the specified media type from the given track
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TrackItemType | *number* |
 | includeEmptyTrackItems | *boolean* |
-    
+
 ___
 
 

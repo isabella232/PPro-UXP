@@ -26,10 +26,10 @@ keywords:
 | name | *string* | R | 23.0 | The sequence name. |
 | id | *Guid* | R | 23.0 | The unique identifier of the sequence. |
 
-
 ## Methods
 
 ### getVideoTrackCount
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *number*
@@ -40,6 +40,7 @@ Get video track count from this sequence
 ___
 
 ### getAudioTrackCount
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *number*
@@ -50,6 +51,7 @@ Get audio track count from this sequence
 ___
 
 ### getCaptionTrackCount
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *number*
@@ -60,6 +62,7 @@ Get caption track count from this sequence
 ___
 
 ### getVideoTrack
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -67,13 +70,15 @@ ___
 Get video track from track index
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TrackIndex | *number* |
-    
+
 ___
 
 ### getAudioTrack
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -81,13 +86,15 @@ ___
 Get audio track from track index
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TrackIndex | *number* |
-    
+
 ___
 
 ### getCaptionTrack
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *object*
@@ -95,10 +102,11 @@ ___
 Get caption track from track index
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | TrackIndex | *number* |
-    
+
 ___
 
 

@@ -21,10 +21,10 @@ keywords:
 
 
 
-
 ## Methods
 
 ### executeUndoableTransaction
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *boolean*
@@ -32,15 +32,17 @@ keywords:
 Execute a transaction against the Backend. The compound action to be executed against the backend should be populated by the callback parameter.
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | undefined | *( compoundAction: CompoundAction ): void* |
 | transactionIdentifier | *string* |
 | undoText | *string* |
-    
+
 ___
 
 ### scopeBackendAccess
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *boolean*
@@ -48,10 +50,11 @@ ___
 Execute a transaction against the Backend. The compound action to be executed against the backend should be populated by the callback parameter.
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | undefined | *(): void* |
-    
+
 ___
 
 

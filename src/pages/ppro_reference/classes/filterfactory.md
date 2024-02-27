@@ -21,10 +21,10 @@ keywords:
 
 
 
-
 ## Methods
 
 ### createVideoFilterComponent
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *VideoFilterComponent*
@@ -32,13 +32,15 @@ keywords:
 Creates a new video filter component based on the input matchName
 
 #### Parameters
+
 | Name | Type |
 | :------ | :------ |
 | matchName | *string* |
-    
+
 ___
 
 ### getVideoFilterComponentMatchNames
+
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
 
 *Array*
