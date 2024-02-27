@@ -19,8 +19,6 @@ keywords:
 
 # VideoComponentChain
 
-
-
 ## Methods
 
 ### createInsertComponentAction
@@ -30,7 +28,6 @@ keywords:
 *Action*
 
 Creates and returns an insert component action
-
 #### Parameters
 
 | Name | Type |
@@ -47,7 +44,6 @@ ___
 *Action*
 
 Creates and returns an append component action
-
 #### Parameters
 
 | Name | Type |
@@ -63,7 +59,6 @@ ___
 *Action*
 
 Creates and returns an remove component action
-
 #### Parameters
 
 | Name | Type |
@@ -79,7 +74,6 @@ ___
 *object*
 
 Returns the component at the given index
-
 #### Parameters
 
 | Name | Type |
@@ -96,9 +90,5 @@ ___
 
 Gets the number of components in the component chain
 
-
 ___
-
-
-
 

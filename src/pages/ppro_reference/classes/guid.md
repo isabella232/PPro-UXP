@@ -19,8 +19,6 @@ keywords:
 
 # Guid
 
-
-
 ## Methods
 
 ### fromString
@@ -30,7 +28,6 @@ keywords:
 *Guid*
 
 Create a guid from a string
-
 #### Parameters
 
 | Name | Type |
@@ -38,7 +35,4 @@ Create a guid from a string
 | undefined | *string* |
 
 ___
-
-
-
 

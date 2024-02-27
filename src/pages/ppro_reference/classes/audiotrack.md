@@ -34,7 +34,6 @@ keywords:
 *boolean*
 
 Propagates the given event on this object.
-
 #### Parameters
 
 | Name | Type |
@@ -51,7 +50,6 @@ ___
 
 UUID representing the underlying media type of this track
 
-
 ___
 
 ### getIndex
@@ -62,7 +60,6 @@ ___
 
 Index representing the track index of this track within the track group.
 
-
 ___
 
 ### getTrackItems
@@ -72,7 +69,6 @@ ___
 *Array*
 
 This returns the track items of the specified media type from the given track
-
 #### Parameters
 
 | Name | Type |
@@ -82,7 +78,6 @@ This returns the track items of the specified media type from the given track
 
 ___
 
-
 ## Events
 
 | Name | Version | Description |
@@ -90,4 +85,3 @@ ___
 | EVENT_TRACK_CHANGED | 23.0 | Event Object for Track changed |
 | EVENT_TRACK_INFO_CHANGED | 23.0 | Event Object for Track Info Changed |
 | EVENT_TRACK_LOCK_CHANGED | 23.0 | Event Object for Track Lock Changed |
-

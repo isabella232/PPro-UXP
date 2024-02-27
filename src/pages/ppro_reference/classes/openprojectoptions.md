@@ -37,7 +37,6 @@ keywords:
 *object*
 
 Set whether to show the convert project dialog on project open/close
-
 #### Parameters
 
 | Name | Type |
@@ -53,7 +52,6 @@ ___
 *object*
 
 Set whether to show the locate file dialog on project open/close
-
 #### Parameters
 
 | Name | Type |
@@ -69,7 +67,6 @@ ___
 *object*
 
 Set whether to show the warning file dialog on project open/close
-
 #### Parameters
 
 | Name | Type |
@@ -85,7 +82,6 @@ ___
 *object*
 
 Set whether to add to MRU list after project changes
-
 #### Parameters
 
 | Name | Type |
@@ -93,7 +89,4 @@ Set whether to add to MRU list after project changes
 | inAddToMRUList | *boolean* |
 
 ___
-
-
-
 

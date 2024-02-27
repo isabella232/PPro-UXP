@@ -29,10 +29,8 @@ keywords:
 
 
 
-
 ## Events
 
 | Name | Version | Description |
 | :------ | :------ | :------ |
 | EVENT_CLOSED | 23.0 | Event occurs when project was closed. |
-

@@ -19,8 +19,6 @@ keywords:
 
 # FilterFactory
 
-
-
 ## Methods
 
 ### createVideoFilterComponent
@@ -30,7 +28,6 @@ keywords:
 *VideoFilterComponent*
 
 Creates a new video filter component based on the input matchName
-
 #### Parameters
 
 | Name | Type |
@@ -47,9 +44,5 @@ ___
 
 Return a promise which will be fullfilled with an array of video filter matchNames
 
-
 ___
-
-
-
 

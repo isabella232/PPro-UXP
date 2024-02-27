@@ -35,7 +35,6 @@ keywords:
 *object*
 
 Returns an action that lets users create a new bin.
-
 #### Parameters
 
 | Name | Type |
@@ -52,7 +51,6 @@ ___
 *object*
 
 Creates a new bin with given name and returns the Folder object. If second param (makeUnique) is true, we make sure the newly created bin has a unique name.
-
 #### Parameters
 
 | Name | Type |
@@ -70,7 +68,6 @@ ___
 
 Get the root item of the project which contains all items of the project on the lowest level
 
-
 ___
 
 ### getProject
@@ -80,7 +77,6 @@ ___
 *object*
 
 Get the root item of the project which contains all items of the project on the lowest level.
-
 
 ___
 
@@ -92,7 +88,6 @@ ___
 
 Collection of child items of this folder.
 
-
 ___
 
 ### createRemoveItemAction
@@ -102,7 +97,6 @@ ___
 *object*
 
 Creates an action that removes the given item from this folder.
-
 #### Parameters
 
 | Name | Type |
@@ -118,7 +112,6 @@ ___
 *object*
 
 Removes the given item from provided folder and returns a promise
-
 #### Parameters
 
 | Name | Type |
@@ -134,7 +127,6 @@ ___
 *object*
 
 Creates an action that moves the given item to the provided folder item newParent.
-
 #### Parameters
 
 | Name | Type |
@@ -151,7 +143,6 @@ ___
 *object*
 
 Moves the given project item to the provided folder item and returns a promise
-
 #### Parameters
 
 | Name | Type |
@@ -160,7 +151,4 @@ Moves the given project item to the provided folder item and returns a promise
 | newParent | [*FolderItem*](/ppro_reference/classes/folderitem/) |
 
 ___
-
-
-
 

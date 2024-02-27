@@ -34,7 +34,6 @@ keywords:
 *Array*
 
 This returns the track items of the specified media type from the given track
-
 #### Parameters
 
 | Name | Type |
@@ -43,7 +42,4 @@ This returns the track items of the specified media type from the given track
 | includeEmptyTrackItems | *boolean* |
 
 ___
-
-
-
 

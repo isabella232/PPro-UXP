@@ -35,7 +35,6 @@ keywords:
 
 Get the root item of the project which contains all items of the project on the lowest level
 
-
 ___
 
 ### getProject
@@ -46,9 +45,5 @@ ___
 
 Get the root item of the project which contains all items of the project on the lowest level.
 
-
 ___
-
-
-
 

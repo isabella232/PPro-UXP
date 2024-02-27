@@ -35,7 +35,6 @@ keywords:
 
 Get the root item of the project which contains all items of the project on the lowest level
 
-
 ___
 
 ### getProject
@@ -45,7 +44,6 @@ ___
 *object*
 
 Get the root item of the project which contains all items of the project on the lowest level.
-
 
 ___
 
@@ -57,7 +55,6 @@ ___
 
 Get content type of the Project item
 
-
 ___
 
 ### getSequence
@@ -68,7 +65,6 @@ ___
 
 Get the sequence of the Project item
 
-
 ___
 
 ### getInPoint
@@ -78,7 +74,6 @@ ___
 *TickTime*
 
 Get the in point of the Project item
-
 #### Parameters
 
 | Name | Type |
@@ -94,7 +89,6 @@ ___
 *TickTime*
 
 Get the out point of the Project item
-
 #### Parameters
 
 | Name | Type |
@@ -111,7 +105,6 @@ ___
 
 Get the media file path of the Project item.
 
-
 ___
 
 ### setInOutPoints
@@ -121,7 +114,6 @@ ___
 *boolean*
 
 Set the in or out point of the Project item
-
 #### Parameters
 
 | Name | Type |
@@ -139,9 +131,5 @@ ___
 
 Clear the in or out point of the Project item
 
-
 ___
-
-
-
 

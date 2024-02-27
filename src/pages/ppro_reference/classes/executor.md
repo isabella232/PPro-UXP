@@ -19,8 +19,6 @@ keywords:
 
 # Executor
 
-
-
 ## Methods
 
 ### executeUndoableTransaction
@@ -30,7 +28,6 @@ keywords:
 *boolean*
 
 Execute a transaction against the Backend. The compound action to be executed against the backend should be populated by the callback parameter.
-
 #### Parameters
 
 | Name | Type |
@@ -48,7 +45,6 @@ ___
 *boolean*
 
 Execute a transaction against the Backend. The compound action to be executed against the backend should be populated by the callback parameter.
-
 #### Parameters
 
 | Name | Type |
@@ -56,7 +52,4 @@ Execute a transaction against the Backend. The compound action to be executed ag
 | undefined | *(): void* |
 
 ___
-
-
-
 

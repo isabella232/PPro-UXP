@@ -37,7 +37,6 @@ keywords:
 *object*
 
 Set whether to prompt if a project is dirty on project open/close
-
 #### Parameters
 
 | Name | Type |
@@ -53,7 +52,6 @@ ___
 *object*
 
 Set whether to show the cancel button on project open/close
-
 #### Parameters
 
 | Name | Type |
@@ -69,7 +67,6 @@ ___
 *object*
 
 Set whether the app should be prepared to quit when open/closing a project
-
 #### Parameters
 
 | Name | Type |
@@ -85,7 +82,6 @@ ___
 *object*
 
 Set whether to save your workspaces when opening/closing a project
-
 #### Parameters
 
 | Name | Type |
@@ -93,7 +89,4 @@ Set whether to save your workspaces when opening/closing a project
 | inIsAppBeingPreparedToQuit | *boolean* |
 
 ___
-
-
-
 
