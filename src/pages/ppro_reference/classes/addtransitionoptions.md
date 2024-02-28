@@ -93,4 +93,3 @@ Sets the duration of transition
 | TickTime | *object* |
 
 ___
-

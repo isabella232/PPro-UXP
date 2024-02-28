@@ -80,7 +80,6 @@ Index representing the track index of this track within the track group.
 
 ___
 
-
 ## Events
 
 | Name | Version | Description |

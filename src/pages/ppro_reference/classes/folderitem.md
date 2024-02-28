@@ -122,7 +122,6 @@ ___
 
 Collection of child items of this folder.
 
-
 ___
 
 ### createRemoveItemAction

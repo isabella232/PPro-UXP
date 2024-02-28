@@ -62,7 +62,6 @@ ___
 
 Returned Promise will be fulfilled with the value of component chain associated with this track item
 
-
 ___
 
 ### getStartTime
@@ -72,7 +71,6 @@ ___
 *TickTime*
 
 Timecode representing the start of this track item relative to the sequence start.
-
 
 ___
 
@@ -84,7 +82,6 @@ ___
 
 Timecode representing the end of this track item relative to the sequence start.
 
-
 ___
 
 ### getDuration
@@ -94,7 +91,6 @@ ___
 *TickTime*
 
 Timecode representing the duration of this track item relative to the sequence start.
-
 
 ___
 
@@ -106,7 +102,6 @@ ___
 
 Index representing the type of this track item.
 
-
 ___
 
 ### getMediaType
@@ -116,7 +111,6 @@ ___
 *object*
 
 UUID representing the underlying media type of this track item
-
 
 ___
 
@@ -128,7 +122,6 @@ ___
 
 Index representing the track index of the track this track item belongs to
 
-
 ___
 
 ### getProjectItem
@@ -138,6 +131,5 @@ ___
 *object*
 
 The project item for this track item.
-
 
 ___
