@@ -36,6 +36,7 @@ keywords:
 
 Get video track count from this sequence
 
+
 ___
 
 ### getAudioTrackCount
@@ -46,6 +47,7 @@ ___
 
 Get audio track count from this sequence
 
+
 ___
 
 ### getCaptionTrackCount
@@ -55,6 +57,7 @@ ___
 *number*
 
 Get caption track count from this sequence
+
 
 ___
 
@@ -105,4 +108,3 @@ Get caption track from track index
 | TrackIndex | *number* |
 
 ___
-

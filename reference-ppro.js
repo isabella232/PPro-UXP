@@ -87,6 +87,10 @@ module.exports = [{
           "path": "/ppro_reference/classes/transitionfactory/"
         },
         {
+          "title": "VideoClipTrackItem",
+          "path": "/ppro_reference/classes/videocliptrackitem/"
+        },
+        {
           "title": "VideoComponentChain",
           "path": "/ppro_reference/classes/videocomponentchain/"
         },

@@ -42,4 +42,3 @@ Add an action to the compound action
 | Action | *object* |
 
 ___
-

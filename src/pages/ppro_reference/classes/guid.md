@@ -36,4 +36,3 @@ Create a guid from a string
 | undefined | *string* |
 
 ___
-

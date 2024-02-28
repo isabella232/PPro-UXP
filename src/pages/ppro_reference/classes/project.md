@@ -36,6 +36,7 @@ keywords:
 
 Get the active sequence of the project
 
+
 ___
 
 ### setActiveSequence
@@ -181,6 +182,7 @@ ___
 
 Currently active project.
 
+
 ___
 
 ### getProject
@@ -207,6 +209,7 @@ ___
 
 Get an array of all sequences in this project.
 
+
 ___
 
 ### getRootItem
@@ -216,6 +219,7 @@ ___
 *object*
 
 The root item of the project which contains all items of the project on the lowest level.
+
 
 ___
 
@@ -235,4 +239,3 @@ Execute undoable transaction by passing compount action
 | undoString? | *any* |
 
 ___
-

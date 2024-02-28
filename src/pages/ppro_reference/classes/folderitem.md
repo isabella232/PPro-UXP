@@ -23,7 +23,6 @@ keywords:
 
 | Name | Type | Access | Min Version | Description |
 | :------ | :------ | :------ | :------ | :------ |
-| parent | *object* | R | 23.0 | The root item of the project which contains all items of the project on the lowest level. |
 | name | *string* | R | 23.0 | Get name of project item object |
 
 ## Methods
@@ -62,6 +61,39 @@ Creates a new bin with given name and returns the Folder object. If second param
 
 ___
 
+### createSmartBinAction
+
+<span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
+
+*object*
+
+Creates a smart bin with given name and returns the Folder object
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| name | *string* |
+| searchQuery | *string* |
+
+___
+
+### createRenameBinAction
+
+<span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
+
+*object*
+
+Rename the Bin and return true if it's successful
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| undefined | *string* |
+
+___
+
 ### getParent
 
 <span class="minversion" style="display: block; margin-bottom: -1em; margin-left: 36em; float:left; opacity:0.5;">23.0</span>
@@ -89,6 +121,7 @@ ___
 *Array*
 
 Collection of child items of this folder.
+
 
 ___
 
@@ -157,4 +190,3 @@ Moves the given project item to the provided folder item and returns a promise
 | newParent | [*FolderItem*](/ppro_reference/classes/folderitem/) |
 
 ___
-

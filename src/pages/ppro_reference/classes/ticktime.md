@@ -26,6 +26,3 @@ keywords:
 | seconds | *number* | W | 23.0 | Read/Write property to get/set TickTime in seconds |
 | ticks | *string* | W | 23.0 | Read/Write property to get/set TickTime in ticks as a string |
 | ticksNumber | *number* | W | 23.0 | Read/Write property to get/set TickTime in ticks as a number |
-
-
-

@@ -93,4 +93,3 @@ Set whether to save your workspaces when opening/closing a project
 | inIsAppBeingPreparedToQuit | *boolean* |
 
 ___
-

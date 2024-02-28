@@ -93,4 +93,3 @@ Set whether to add to MRU list after project changes
 | inAddToMRUList | *boolean* |
 
 ___
-
